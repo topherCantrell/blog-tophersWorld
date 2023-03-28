@@ -1,0 +1,26 @@
+# On the Origin of Code Quality by Means of Natural Selection
+
+## July 12, 2017
+
+A C++ developer has a much harder time being born than a Java developer does. The fledgling C++ programmer must survive hostile environments 
+filled with tedious configurations for libraries and include paths. The development venue is traditionally a unix/linux box that encourages 
+tool chains fraught with cryptic command lines. Sigh. Building a C++ application is not for the faint-of-heart.
+
+Java developers, on the other hand, live a pampered life of luxury with bright, colorful IDEs that pop up with fixes and suggestions faster 
+than a Microsoft paperclip in a fourth grade history report. I can crank out giant web applications with one hand and a few mouse clicks without 
+spilling my fruity beverage in the other hand.
+
+You would think this barrier to entry for C++ would weed out all but the fittest developers. The average C++ program should be more elegant than 
+the average Java program simply because only the crème de la crème of C++ developers survive to write code. Yet I have seen little difference in 
+the quality of code between easy-and-hard-to-write languages.
+
+The reason is that a developer has a limited number of neurons. The complexities of tools and syntax in C++ consume valuable mental resources leaving 
+fewer neurons available to craft the code itself. Good programmers usually produce good code, but their riches are heavily taxed by the development 
+environment. Bad programmers usually create bad code, but in Java they can crank it out faster.
+
+Remember the movie Idiocracy? Intelligent parents tend to wait later in life to have children, and they have fewer (quality) children. Meanwhile
+the idiots are spawning like rabbits. Their drooling, dull-eyed progeny spread like weeds.
+
+I see the same trend in code technology. Carefully crafted programs (in whatever language you choose) take time to create. They are being smothered 
+by shoddy, half-assed applications simply because they get to market first. Soon the code-guru will be standing on the side of the road with 
+a “will code for food” sign while web developers will be racing home to see another episode of “Oww, my balls!”
